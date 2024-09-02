@@ -21,7 +21,7 @@ repository               : "victorverma/victorverma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "website_photo.jpeg"
   name             : "Victor Verma"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Department of Statistics, University of Michigan"
